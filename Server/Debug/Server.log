@@ -1,0 +1,4 @@
+﻿  server.cpp
+g:\onedrive\u-tad\juego en red\practicas\practica1 - chat\server\server.cpp(68): warning C4101: 'buffer': unreferenced local variable
+  Server.vcxproj -> G:\OneDrive\U-TAD\Juego en red\Practicas\Practica1 - Chat\Debug\Server.exe
+  Server.vcxproj -> G:\OneDrive\U-TAD\Juego en red\Practicas\Practica1 - Chat\Debug\Server.pdb (Full PDB)

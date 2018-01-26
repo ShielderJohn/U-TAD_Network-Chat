@@ -1,0 +1,4 @@
+﻿  client.cpp
+g:\onedrive\u-tad\juego en red\practicas\practica1 - chat\client\client.cpp(197): warning C4715: 'ReceiveMessageFromServer': not all control paths return a value
+  Client.vcxproj -> G:\OneDrive\U-TAD\Juego en red\Practicas\Practica1 - Chat\Debug\Client.exe
+  Client.vcxproj -> G:\OneDrive\U-TAD\Juego en red\Practicas\Practica1 - Chat\Debug\Client.pdb (Full PDB)
